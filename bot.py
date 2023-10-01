@@ -57,3 +57,4 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+    #annuler les requtes faites en amont. et lancer àpres quelques secondes.
