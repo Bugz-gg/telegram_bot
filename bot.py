@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv()
 key = os.getenv('KEY_BOT_API')
 username = os.getenv('KEY_BOT_USERNAME')
-username_list = os.getenv('KEY_USERNAME_ADMIN')
+username_list = [5308836087, 5555288592, 5120539792]
 
 TOKEN: Final = key
 BOT_USERNAME: Final = username
