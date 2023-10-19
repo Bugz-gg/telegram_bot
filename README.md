@@ -18,7 +18,7 @@ Before using the bot, make sure to perform the following steps:
    # Replace 'YOUR_API_KEY' with your actual API key
    api_key = 'YOUR_API_KEY'
 
-2. **Dependances**: Ensure that you have all the necessary Python libraries installed. You can install them using pip:
+2. **Dependancies**: Ensure that you have all the necessary Python libraries installed. You can install them using pip:
    ```python
    pip install telegram-bot
    pip install asyncio
