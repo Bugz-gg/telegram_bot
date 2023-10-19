@@ -23,13 +23,13 @@ Before using the bot, make sure to perform the following steps:
    pip install telegram-bot
    pip install asyncio
 
-#Usage
+##Usage
 
 To run the bot, execute the bot.py file. The bot will be active and ready to respond to user commands related to volleyball training subscriptions.
 
 ##Licence
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 ##Contribution
